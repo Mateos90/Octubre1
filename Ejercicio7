@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>    
+      <head>
+         </head> 
+         <meta charset="utf-8"> 
+          <body>
+            <main>      
+               <header>
+                   <h1> </h1>
+               </header>
+               <section>
+                 <form action = " ">
+                 <label for = "usuario"> Usuario </label>
+                 <input type ="text" name = "usuario" placeholder = "Introduce tu Usuario" required>
+                 <label for = "Password"> Password </label>
+                 <input type ="Password" name = "Password" placeholder = "Introduce tu Contraseña" required>
+                 <input type ="submit" value="Entrar"> 
+              
+                 
+
+
+
+
+    </form>
+    <a href=" # " > Registro </a>
+   </section>
+  </main>
+ </body>
